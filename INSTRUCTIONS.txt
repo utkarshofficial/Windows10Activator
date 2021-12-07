@@ -1,0 +1,20 @@
+┌────────────────────────────────────────────────────────────┐
+│ THIS PROGRAM IS MAKED BY UTKARSH SHARMA                    │
+│ GitHub   ─ https://github.com/utkarshofficial              │
+│ FaceBook ─ https://fb.com/utkarshsharmaofficial            │
+├────────────────────────────────────────────────────────────┤
+│ ██╗   ██╗████████╗██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ │
+│ ██║   ██║╚══██╔══╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝██║  ██║ │
+│ ██║   ██║   ██║   █████╔╝ ███████║██████╔╝███████╗███████║ │
+│ ██║   ██║   ██║   ██╔═██╗ ██╔══██║██╔══██╗╚════██║██╔══██║ │
+│ ╚██████╔╝   ██║   ██║  ██╗██║  ██║██║  ██║███████║██║  ██║ │
+│  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ │
+└────────────────────────────────────────────────────────────┘
+
+────────Instructions────────
+1. If you don't know about your Windows Edition than - Press Win & type 'ram info' and Press Enter. 
+2. Please run this program as Administrator, if you already gived the Administrator Privilege than don't wory.
+3. Connect to the Internet before running this software, if you already Connected than close the notepad.
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Don't Wory this is 100% Safe & Open Source.
